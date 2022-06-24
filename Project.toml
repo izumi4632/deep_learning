@@ -2,3 +2,6 @@ name = "deep_learning"
 uuid = "fb084d26-f76a-4ce3-b240-abd035ab6a9f"
 authors = ["izumi4632 <ujiu2kyr@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
